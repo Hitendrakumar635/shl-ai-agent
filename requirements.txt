@@ -1,8 +1,7 @@
-fastapi
-uvicorn
-python-dotenv
-google-generativeai
-faiss-cpu
-sentence-transformers
+uvicorn 
+python-dotenv 
+google-generativeai 
+faiss-cpu 
+sentence-transformers 
 numpy
-pydantic
+ pydantic
